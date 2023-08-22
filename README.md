@@ -13,6 +13,10 @@ Key topics discussed in the web app are;
 ## Installation: 
 n/a
 ## Usage: 
+Upon navigating to the Horiseon page, the user has two options;
+1. User can select a topic of interest from the navigation bar at the upper right side of the screen. Each topic of interest contains a link that will automatically bring the user to the selected topic section with additional in-depth information
+2. User can continue to scroll through entire page and review topic sections and information as a whole
+   
 (*insert screenshot and URL*)
 
 ## Credits: 

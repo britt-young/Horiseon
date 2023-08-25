@@ -21,7 +21,7 @@ body {
     display: inline-block;
     font-size: 48px;
 }
-
+/* changes color of individual lettering in header */
 .header h1 .seo {
     color: #d9dcd6;
 }

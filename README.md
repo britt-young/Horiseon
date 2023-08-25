@@ -17,7 +17,7 @@ Upon navigating to the Horiseon page, the user has two options;
 1. User can select a topic of interest from the navigation bar at the upper right side of the screen. Each topic of interest contains a link that will automatically bring the user to the selected topic section with additional in-depth information
 2. User can continue to scroll through entire page and review topic sections and information as a whole
    
-(*insert screenshot and URL*)
+![Final_Webpage_Screenshot](https://github.com/britt-young/Horiseon/blob/main/Develop/assets/images/Screenshot%202023-08-25%20000926.png)"Horiseon Homepage")
 
 ## Credits: 
 Horiseon Social Services provided index.html and style.css code. My role was to refactor for accessibility.

@@ -18,6 +18,7 @@ Upon navigating to the Horiseon page, the user has two options;
 2. User can continue to scroll through entire page and review topic sections and information as a whole
    
 ![Final_Webpage_Screenshot](https://github.com/britt-young/Horiseon/blob/main/Develop/assets/images/Screenshot%202023-08-25%20000926.png)"Horiseon Homepage")
+Deployed Link: https://britt-young.github.io/Horiseon/
 
 ## Credits: 
 Horiseon Social Services provided index.html and style.css code. My role was to refactor for accessibility.
